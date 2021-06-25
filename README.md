@@ -1,5 +1,6 @@
 This repository contains solution to the questions below. The questions is about rental dvd industry using dataset from : https://github.com/robconery/dvdrental
 
+QUESTIONS
 1.	A customer wants to know the films about “astronauts”. How many recommendations could you give for him?
 2.	I wonder, how many films have a rating of “R” and a replacement cost between $5 and $15?
 3.	We have two staff members with staff IDs 1 and 2. We want to give a bonus to the staff member that handled the most payments.How many payments did each staff member handle? And how much was the total amount processed by each staff member?
